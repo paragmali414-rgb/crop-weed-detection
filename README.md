@@ -35,7 +35,7 @@ This project detects crops and weeds using computer vision to enable selective p
 
 ## 📊 Results
 ### 🔍 Detection Output
-(Add your result images here after uploading)
+![Detection Result](detection_results.png)
 
 ---
 
